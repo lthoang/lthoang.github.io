@@ -11,3 +11,5 @@ github_username:  lthoang
 markdown: kramdown
 plugins:
   - jekyll-feed
+
+google_analytics: UA-70844403-1
