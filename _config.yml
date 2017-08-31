@@ -1,8 +1,19 @@
 title: Lê Trung Hoàng
 title_enabled: false
+name_card:
+  name: Lê Trung Hoàng
+  office: VNU-HCM University of Science
+  position: >
+    Faculty of Information Technology <br/>
+    Advanced Program in Computer Science
+  contacts:
+    -
+      label: Email
+      detail: lthoang@apcs.vn
+
 email: lthoang@apcs.vn
 description: >
-  Trang cá nhân của Lê Trung Hoàng
+  Lê Trung Hoàng's personal site
 baseurl: ""
 url: "lthoang.github.io"
 twitter_username: trhoanglee

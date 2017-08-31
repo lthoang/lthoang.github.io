@@ -1,0 +1,14 @@
+{% if site.name_card %}
+<div>
+  {% assign card = site.name_card %}
+  <b><font size="5">{{ card.name }}</font></b><br/>
+  <font size="3">
+    <b><font size="3">{{ card.office }}</font></b><br/>
+    <font size="3">{{ card.position }}</font>
+  </font><br/>
+  
+  {% for contact in card.contacts %}
+  <font size="2">{% if contact.label %}<b>{{ contact.label }}: </b>{% endif %}{{ contact.detail }}</font><br/>
+  {% endfor %}
+</div>
+{% endif %}
