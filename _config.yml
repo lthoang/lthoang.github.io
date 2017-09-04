@@ -24,3 +24,6 @@ plugins:
   - jekyll-feed
 
 google_analytics: UA-70844403-1
+
+collections:
+  - news

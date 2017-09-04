@@ -1,14 +1,17 @@
 {% if site.name_card %}
-<div>
+<div class="name-card">
   {% assign card = site.name_card %}
-  <b><font size="5">{{ card.name }}</font></b><br/>
-  <font size="3">
-    <b><font size="3">{{ card.office }}</font></b><br/>
-    <font size="3">{{ card.position }}</font>
-  </font><br/>
-  
+  <div class="name-card__name">
+    {{ card.name }}
+  </div>
+  <div class="name-card__desc">
+    <b>{{ card.office }}</b><br/>
+    {{ card.position }}
+  </div>  
   {% for contact in card.contacts %}
-  <font size="2">{% if contact.label %}<b>{{ contact.label }}: </b>{% endif %}{{ contact.detail }}</font><br/>
+  <div class="name-card__contact">
+    {% if contact.label %}<b>{{ contact.label }}: </b>{% endif %}{{ contact.detail }}
+  </div>
   {% endfor %}
 </div>
 {% endif %}
