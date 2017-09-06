@@ -9,7 +9,14 @@ name_card:
   contacts:
     email: lthoang@apcs.vn
 
-email: lthoang@apcs.vn
+contacts:
+  office: >
+    <br/>Advanced Program in Computer Science <br/>
+    VNU-HCM University of Science<br/>
+    227 Nguyen Van Cu Street<br/>
+    Ward 4, District 5, Ho Chi Minh, Viet Nam
+  phone: +84-9349-91860
+  email: lthoang A_T apcs.vn
 description: >
   Lê Trung Hoàng's personal site
 baseurl: ""
