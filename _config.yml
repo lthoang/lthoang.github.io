@@ -16,8 +16,11 @@ description: >
   Lê Trung Hoàng's personal site
 baseurl: ""
 url: "lthoang.github.io"
-twitter_username: trhoanglee
-github_username:  lthoang
+social:
+  github: lthoang
+  twitter: trhoanglee
+  facebook: trhoanglee
+  linkedin: lthoang
 
 markdown: kramdown
 plugins:
