@@ -7,9 +7,7 @@ name_card:
     Faculty of Information Technology <br/>
     Advanced Program in Computer Science
   contacts:
-    -
-      label: Email
-      detail: lthoang@apcs.vn
+    email: lthoang@apcs.vn
 
 email: lthoang@apcs.vn
 description: >

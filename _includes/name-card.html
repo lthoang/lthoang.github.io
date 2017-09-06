@@ -10,7 +10,7 @@
   </div>  
   {% for contact in card.contacts %}
   <div class="name-card__contact">
-    {% if contact.label %}<b>{{ contact.label }}: </b>{% endif %}{{ contact.detail }}
+    <b class="capitalize">{{ contact[0] }}: </b>{{ contact[1] }}
   </div>
   {% endfor %}
 </div>
