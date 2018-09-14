@@ -2,21 +2,21 @@ title: Lê Trung Hoàng
 title_enabled: false
 name_card:
   name: Lê Trung Hoàng
-  office: VNU-HCM University of Science
+  office: Singapore Management University
   position: >
-    Faculty of Information Technology <br/>
-    Advanced Program in Computer Science
+    PhD Candidate in Data Science and Engineering <br/>
+    SMU School of Information Systems
   contacts:
-    email: lthoang@apcs.vn
+    email: thle.2017 AT smu.edu.sg
 
 contacts:
   office: >
-    <br/>Advanced Program in Computer Science <br/>
-    VNU-HCM University of Science<br/>
-    227 Nguyen Van Cu Street<br/>
-    Ward 4, District 5, Ho Chi Minh, Viet Nam
-  phone: +84-9349-91860
-  email: lthoang A_T apcs.vn
+    <br/>SMU School of Information Systems <br/>
+    Singapore Management University<br/>
+    80 Stamford Road<br/>
+    Singapore 178902
+  phone: +84-9349-91860 / +65-8424-9685
+  email: thle.2017 AT smu.edu.sg
 description: >
   Lê Trung Hoàng's personal site
 baseurl: ""
@@ -25,7 +25,7 @@ social:
   github: lthoang
   twitter: trhoanglee
   facebook: trhoanglee
-  linkedin: lthoang
+  linkedin: in/lthoang
 
 markdown: kramdown
 plugins:
