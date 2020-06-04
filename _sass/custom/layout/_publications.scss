@@ -1,0 +1,11 @@
+.publication-item {
+  @include relative-font-size(0.75);
+}
+
+.publication-reference-links span::after {
+  content: ' |';
+}
+
+.publication-reference-links span:last-child::after {
+  content: '';
+}

@@ -1,0 +1,14 @@
+{% assign items = site.publications | sort: 'date' | reverse %}
+{% for item in items %}
+<div class="publication-item">
+  <div>
+    {% if item.link %}<a href="{{ item.link }}">{% endif %}{{ item.title }}{% if item.link %}</a>{% endif %}
+  </div>
+  <div>by {{ item.authors }}</div>
+  <div>{{ item.venue }}</div>
+  <div class="publication-reference-links">
+    {% if item.code %}<span><a href="{{ item.code }}">code</a></span>{% endif %}
+    {% if item.slides %}<span><a href="{{ item.slides }}">slides</a></span>{% endif %}
+  </div>
+</div>
+{% endfor %}

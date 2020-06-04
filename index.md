@@ -8,3 +8,5 @@ layout: default
 {% include name-card.html %}
 <h3 class="home-section__header">News</h3>
 {% include recents-news.html %}
+<h3 class="home-section__header">Publications</h3>
+{% include publications.html %}
