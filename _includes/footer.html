@@ -2,22 +2,12 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
-
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>
-            {% if site.author %}
-              {{ site.author | escape }}
-            {% else %}
-              {{ site.title | escape }}
-            {% endif %}
-            </li>
-            {% if site.email %}
-            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {% endif %}
-        </ul>
+        <div style="max-width: 200px;">
+          <script type="text/javascript" id="clustrmaps"
+            src="//cdn.clustrmaps.com/map_v2.js?d=aIlJLLptmhbfei9U0JxdR_hWHCTqbulKHj3DQqQNtb0&cl=ffffff&w=a"></script>
+        </div>
       </div>
 
       <div class="footer-col footer-col-2">
@@ -25,6 +15,14 @@
         <a href="//{{ social[0] }}.com/{{ social[1] }}"><i class="fa fa-{{ social[0] }}" aria-hidden="true"></i></a>
         {% endfor %}
         <a href="{{ "/feed.xml" | relative_url }}"><i class="fa fa-rss"></i></a>
+        <ul class="contact-list">
+          {% if site.author %}
+          <li>{{ site.author | escape }}</li>
+          {% endif %}
+          {% if site.email %}
+          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          {% endif %}
+        </ul>
       </div>
 
       <div class="footer-col footer-col-3">
@@ -35,6 +33,10 @@
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <small>Last updated in {{ site.time | date: "%b %Y" }}</small>
+      </div>
+    </div>
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
       </div>
     </div>
   </div>
