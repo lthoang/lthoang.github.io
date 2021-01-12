@@ -6,7 +6,7 @@
       {{ item.title }}
     {% if item.link %}</a>{% endif %}
   </div>
-  <div>by {{ item.authors }}</div>
+  <div>{{ item.authors }}</div>
   <div>{{ item.venue }}</div>
   <div class="publication-reference-links">
     {% if item.code %}<span><a href="{{ item.code }}">code</a></span>{% endif %}
