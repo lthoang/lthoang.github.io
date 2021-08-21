@@ -28,8 +28,8 @@ social:
   linkedin: in/lthoang
 
 markdown: kramdown
-plugins:
-  - jekyll-feed
+# plugins:
+  # - jekyll-feed
 
 google_analytics: UA-70844403-1
 
