@@ -9,3 +9,7 @@
 .name-card__contact {
   @include relative-font-size(0.75);
 }
+
+.name-card__link {
+  @include relative-font-size(0.75);
+}

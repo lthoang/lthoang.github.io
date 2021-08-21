@@ -7,11 +7,16 @@
   <div class="name-card__desc">
     <b>{{ card.office }}</b><br/>
     {{ card.position }}
-  </div>  
+  </div>
   {% for contact in card.contacts %}
   <div class="name-card__contact">
     <b class="capitalize">{{ contact[0] }}: </b>{{ contact[1] }}
   </div>
+  {% endfor %}
+  {% for link in card.links %}
+  <span class="name-card__link">
+    <a href="{{ link[1] }}">{{ link[0] }}</a>
+  </span>
   {% endfor %}
 </div>
 {% endif %}
