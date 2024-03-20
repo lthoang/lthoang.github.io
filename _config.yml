@@ -4,7 +4,7 @@ name_card:
   name: Trung-Hoang Le (Lê Trung Hoàng)
   office: Singapore Management University
   position: >
-    PhD Candidate in Computer Science<br/>
+    Research Scientist<br/>
     SMU School of Computing and Information Systems
   contacts:
     email: thle.2017 AT smu.edu.sg
@@ -12,7 +12,6 @@ name_card:
     Google Scholar: https://scholar.google.com/citations?user=tWMyrZ8AAAAJ&hl=en
     LinkedIn: https://www.linkedin.com/in/lthoang
     GitHub: https://github.com/lthoang
-    Facebook: https://fb.com/trhoanglee
 
 contacts:
   office: >
@@ -29,7 +28,6 @@ url: "lthoang.github.io"
 social:
   github: lthoang
   twitter: trhoanglee
-  facebook: trhoanglee
   linkedin: in/lthoang
 scholar: tWMyrZ8AAAAJ
 
@@ -40,6 +38,7 @@ markdown: kramdown
 google_analytics: UA-70844403-1
 
 collections:
+  - awards
   - news
   - publications
   - projects

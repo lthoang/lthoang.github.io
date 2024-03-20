@@ -1,0 +1,12 @@
+{% assign items = site.awards | sort: 'date' | reverse %}
+{% for item in items %}
+<div class="award-item">
+  <div style="font-weight: bold;">{{ item.date | date: "%B %Y" }}</div>
+  <div style="font-weight: bolder;">
+    {{ item.title }}
+  </div>
+  <div>
+    {{ item.description }}
+  </div>
+</div>
+{% endfor %}
