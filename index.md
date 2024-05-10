@@ -24,5 +24,8 @@ layout: default
 - <div class="talk-item">2022-07-28 - Synthesizing Aspect-Driven Recommendation Explanations from Reviews (poster) - SDSC Industry Demo Session</div>
 - <div class="talk-item">2019-12-08 - Explainable Recommendation with <a href="https://github.com/PreferredAI/cornac">Cornac</a> - VNU-HCM University of Science</div>
 
+<h3 class="home-section__header">Blogs</h3>
+- <div class="talk-item">2022-11-30 - <a href="https://preferred.ai/recommendation-explanation/">All Good Recommendations Come with an Explanation</a></div>
+
 <h3 class="home-section__header">Publications</h3>
 {% include publications.html %}
