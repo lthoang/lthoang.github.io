@@ -1,5 +1,10 @@
 {% assign items = site.publications | sort: 'date' | reverse %}
 {% for item in items %}
+{% assign currentdate = item.date | date: "%Y" %}
+{% if currentdate != date %}
+<div id="y{{currentdate}}">{{ currentdate }}</div>
+{% assign date = currentdate %}
+{% endif %}
 <div class="publication-item">
   <div>
     {% if item.link %}<a href="{{ item.link }}">{% endif %}
