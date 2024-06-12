@@ -2,6 +2,6 @@
 title: Mining Product Textual Data for Recommendation Explanations
 date: 2022-11-29 12:00:00 +0800
 authors: Trung-Hoang Le
-venue: PhD Dissertation
+venue: PhD Dissertation, Singapore Management University, 2022.
 link: https://ink.library.smu.edu.sg/etd_coll/450/
 ---
