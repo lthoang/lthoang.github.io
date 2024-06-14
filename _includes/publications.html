@@ -5,18 +5,22 @@
 <div id="y{{currentdate}}">{{ currentdate }}</div>
 {% assign date = currentdate %}
 {% endif %}
-<div class="publication-item">
-  <div>
-    {% if item.link %}<a href="{{ item.link }}">{% endif %}
-      {{ item.title }}
-    {% if item.link %}</a>{% endif %}
-  </div>
-  <div>{{ item.authors }}</div>
-  <div>{{ item.venue }}</div>
-  <div class="publication-reference-links">
-    {% if item.code %}<span><a href="{{ item.code }}">code</a></span>{% endif %}
-    {% if item.slides %}<span><a href="{{ item.slides }}">slides</a></span>{% endif %}
-    {% if item.materials %}<span><a href="{{ item.materials }}">materials</a></span>{% endif %}
-  </div>
-</div>
+<ul>
+  <li>
+    <div class="publication-item">
+      <div>
+        {% if item.link %}<a href="{{ item.link }}">{% endif %}
+          {{ item.title }}
+        {% if item.link %}</a>{% endif %}
+      </div>
+      <div>{{ item.authors }}</div>
+      <div>{{ item.venue }}</div>
+      <div class="publication-reference-links">
+        {% if item.code %}<span><a href="{{ item.code }}">code</a></span>{% endif %}
+        {% if item.slides %}<span><a href="{{ item.slides }}">slides</a></span>{% endif %}
+        {% if item.materials %}<span><a href="{{ item.materials }}">materials</a></span>{% endif %}
+      </div>
+    </div>
+  </li>
+</ul>
 {% endfor %}
