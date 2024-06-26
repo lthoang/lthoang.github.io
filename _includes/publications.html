@@ -19,9 +19,9 @@
     <div>{{ item.authors }}</div>
     <div>{{ item.venue }}</div>
     <div class="publication-reference-links">
-      {% if item.code %}<span><a href="{{ item.code }}">code</a></span>{% endif %}
-      {% if item.slides %}<span><a href="{{ item.slides }}">slides</a></span>{% endif %}
-      {% if item.materials %}<span><a href="{{ item.materials }}">materials</a></span>{% endif %}
+      {% for link in item.links %}
+      <span><a href="{{ link[1] }}">{{ link[0] }}</a></span>
+      {% endfor %}
     </div>
   </div>
 </li>

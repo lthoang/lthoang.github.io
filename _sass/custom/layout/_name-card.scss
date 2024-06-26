@@ -13,3 +13,11 @@
 .name-card__link {
   @include relative-font-size(0.75);
 }
+
+span.name-card__link::after {
+  content: ' |';
+}
+
+span.name-card__link:last-child::after {
+  content: '';
+}
