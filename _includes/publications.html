@@ -1,5 +1,29 @@
-{% assign items = site.publications | sort: 'date' | reverse %}
-{% for item in items %}
+{% assign just_accepted = site.publications | where: "just_accepted", true | sort: "date" | reverse %}
+{% if just_accepted != nil %}
+<div id="just_accepted">Just accepted</div>
+<ul>
+{% for item in just_accepted %}
+<li>
+  <div class="publication-item">
+    <div>
+      {% if item.link %}<a href="{{ item.link }}">{% endif %}
+        {{ item.title }}
+      {% if item.link %}</a>{% endif %}
+    </div>
+    <div>{{ item.authors }}</div>
+    <div>{{ item.venue }}</div>
+    <div class="publication-reference-links">
+      {% for link in item.links %}
+      <span><a href="{{ link[1] }}">{{ link[0] }}</a></span>
+      {% endfor %}
+    </div>
+  </div>
+</li>
+{% endfor %}
+</ul>
+{% endif %}
+{% assign publications = site.publications | where_exp: "item", "item.just_accepted != true" | sort: "date" | reverse %}
+{% for item in publications %}
 {% assign currentdate = item.date | date: "%Y" %}
 {% if currentdate != date %}
 {% if forloop.first != true %}
