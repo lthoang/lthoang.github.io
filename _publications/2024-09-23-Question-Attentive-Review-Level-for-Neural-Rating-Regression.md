@@ -6,4 +6,5 @@ venue: ACM Transactions on Intelligent Systems and Technology (TIST)
 link: /assets/publications/tist24.pdf
 links:
   code: https://github.com/PreferredAI/QuestER
+  doi: https://doi.org/10.1145/3699516
 ---
