@@ -1,6 +1,6 @@
 ---
 title: Question-Attentive Review-Level for Neural Rating Regression
-just_accepted: true
+date: 2024-12-14 20:00:00 +0800
 authors: Trung-Hoang Le and Hady W. Lauw
 venue: ACM Transactions on Intelligent Systems and Technology (TIST)
 link: /assets/publications/tist24.pdf
