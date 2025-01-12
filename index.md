@@ -16,6 +16,7 @@ layout: default
 
 <h3 class="home-section__header">Reviewer</h3>
 - <div class="activity-item">2024: TheWebConf, KDD</div>
+- <div class="activity-item">2025: KDD, TheWebConf</div>
 
 <h3 class="home-section__header">Talks</h3>
 - <div class="talk-item">2024-07-31 - Selecting Comparative Sets of Reviews Across Multiple Items (poster) - Singapore ACM SIGKDD Symposium 2024</div>
