@@ -1,5 +1,5 @@
 {% assign just_accepted = site.publications | where: "just_accepted", true | sort: "date" | reverse %}
-{% if just_accepted != nil %}
+{% if just_accepted != empty %}
 <div id="just_accepted">Just accepted</div>
 <ul>
 {% for item in just_accepted %}
