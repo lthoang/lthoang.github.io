@@ -20,6 +20,7 @@ layout: default
 - <div class="activity-item">2025: KDD, TheWebConf</div>
 
 <h3 class="home-section__header">Talks</h3>
+- <div class="talk-item">2024-11-13 - My recent works on recommendation explanation (3 talks) + Panel discussion: Guidedance and Experiences in Navigating Ph.D. Studies - The 14th Scientific Conference, University of Science, VNU-HCM</div>
 - <div class="talk-item">2024-07-31 - Selecting Comparative Sets of Reviews Across Multiple Items (poster) - Singapore ACM SIGKDD Symposium 2024</div>
 - <div class="talk-item">2022-07-28 - Synthesizing Aspect-Driven Recommendation Explanations from Reviews (poster) - SDSC Industry Demo Session</div>
 - <div class="talk-item">2019-12-08 - Explainable Recommendation with <a href="https://github.com/PreferredAI/cornac">Cornac</a> - VNU-HCM University of Science</div>
