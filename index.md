@@ -15,9 +15,9 @@ layout: default
 - <div class="teaching-item">Teaching Assistant for <strong>SMU CS201 Data Structures and Algorithms (BSc)</strong> - Fall 2020</div>
 - <div class="teaching-item">Teaching Assistant for <strong>SMU COR-IS1702 Computational Thinking</strong> - Fall 2019, Spring 2022, Fall 2022</div>
 
-<h3 class="home-section__header">Reviewer</h3>
+<h3 class="home-section__header">Program Committee</h3>
 - <div class="activity-item">2024: TheWebConf, KDD</div>
-- <div class="activity-item">2025: KDD, TheWebConf</div>
+- <div class="activity-item">2025: KDD, TheWebConf, ACML</div>
 
 <h3 class="home-section__header">Talks</h3>
 - <div class="talk-item">2024-11-13 - My recent works on recommendation explanation (3 talks) + Panel discussion: Guidedance and Experiences in Navigating Ph.D. Studies - The 14th Scientific Conference, University of Science, VNU-HCM</div>
