@@ -17,7 +17,7 @@ layout: default
 
 <h3 class="home-section__header">Program Committee</h3>
 - <div class="activity-item">2024: TheWebConf, KDD</div>
-- <div class="activity-item">2025: KDD, TheWebConf, ACML</div>
+- <div class="activity-item">2025: KDD, TheWebConf, ACML, DSAA</div>
 
 <h3 class="home-section__header">Talks</h3>
 - <div class="talk-item">2025-05-07 - Towards Trust in Recommendations: Weaving Evaluative and Comparative Explanations from Textual Data, ATMRI @ Nayang Technological University Singapore</div>
