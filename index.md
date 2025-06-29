@@ -19,6 +19,9 @@ layout: default
 - <div class="activity-item">2024: TheWebConf, KDD</div>
 - <div class="activity-item">2025: KDD, TheWebConf, ACML, DSAA</div>
 
+<h3 class="home-section__header">Journal Reviewer</h3>
+- <div class="activity-item"><a href="https://link.springer.com/journal/10994">Machine Learning</a></div>
+
 <h3 class="home-section__header">Talks</h3>
 - <div class="talk-item">2025-05-07 - Towards Trust in Recommendations: Weaving Evaluative and Comparative Explanations from Textual Data, ATMRI @ Nayang Technological University Singapore</div>
 - <div class="talk-item">2024-11-13 - My recent works on recommendation explanation (3 talks) + Panel discussion: Guidedance and Experiences in Navigating Ph.D. Studies - The 14th Scientific Conference, University of Science, VNU-HCM</div>
