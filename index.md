@@ -10,7 +10,7 @@ layout: default
 {% include awards.html %}
 
 <h3 class="home-section__header">Teaching</h3>
-- <div class="teaching-item">Teaching Assistant for <strong>CM102 - Critical Thinking</strong> - Advanced Program in Computer Science, Faculty of Information Technology, University of Science, VNU-HCM, Fall 2024</div>
+- <div class="teaching-item">Teaching Assistant for <strong>CM102 - Critical Thinking</strong> - Faculty of Information Technology, University of Science, VNU-HCM, Fall 2024, Spring 2025</div>
 - <div class="teaching-item">Teaching Assistant for <strong>SMU CS608 Recommender Systems</strong> - Master of IT in Business - Summer 2021, Summer 2022</div>
 - <div class="teaching-item">Teaching Assistant for <strong>SMU CS201 Data Structures and Algorithms (BSc)</strong> - Fall 2020</div>
 - <div class="teaching-item">Teaching Assistant for <strong>SMU COR-IS1702 Computational Thinking</strong> - Fall 2019, Spring 2022, Fall 2022</div>
