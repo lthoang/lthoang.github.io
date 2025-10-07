@@ -13,6 +13,7 @@ permalink: /various/
 - <div class="teaching-item">Teaching Assistant for <strong>SMU COR-IS1702 Computational Thinking</strong> - Fall 2019, Spring 2022, Fall 2022</div>
 
 <h3 class="home-section__header">Talks</h3>
+- <div class="talk-item">2025-10-07 - Recommendation Explanations from Reviews towards Trustworthy AI, at FIT, University of Science, VNU-HCM, 2025</div>
 - <div class="talk-item">2025-09-16 - Evaluative and Comparative Explanations for Recommender Systems towards Trustworthy AI, at FIT, University of Science, VNU-HCM, 2025</div>
 - <div class="talk-item">2025-05-07 - Towards Trust in Recommendations: Weaving Evaluative and Comparative Explanations from Textual Data, at ATMRI, Nayang Technological University Singapore, 2025</div>
 - <div class="talk-item">2024-11-13 - My recent works on recommendation explanation (3 talks) + Panel discussion: Guidedance and Experiences in Navigating Ph.D. Studies, at the 14th Scientific Conference, University of Science, VNU-HCM, 2024</div>
