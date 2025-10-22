@@ -10,6 +10,7 @@ layout: default
 - <div class="activity-item">Recommender systems</div>
 - <div class="activity-item">Trustworthy artificial intelligence</div>
 - <div class="activity-item">Air traffic management</div>
+- <div class="activity-item">Software engineering</div>
 
 <h3 class="home-section__header">Get Involved</h3>
 - <div class="activity-item">If you are interested in research, please send your CV to my email address</div>
