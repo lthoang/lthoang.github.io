@@ -5,7 +5,8 @@ permalink: /various/
 ---
 
 <h3 class="home-section__header">Research Grant</h3>
-- <div class="grant-item">Title: An Explainable Approach Towards Trustworthy Recommender Systems. Collaborator: Singapore Management University. Source: Vietnam National University, Ho Chi Minh City. Grant: 200,000,000 VND. Duration: Oct 2025 – Mar 2026.</div>
+- <div class="grant-item">Title: Trustworthy AI for Ranking Systems: Foundations and Applications. Source: NAFOSTED (102.01-2025.66), Vietnam. Grant: 1,350,000,000 VND. Duration: Jan 2026 – Dec 2028.</div>
+- <div class="grant-item">Title: An Explainable Approach Towards Trustworthy Recommender Systems. Collaborator: Singapore Management University. Source: Vietnam National University, Ho Chi Minh City (C2025-18-37). Grant: 200,000,000 VND. Duration: Oct 2025 – Mar 2027.</div>
 
 <h3 class="home-section__header">Teaching</h3>
 - <div class="teaching-item">Instructor for <strong>Data Structures and Algorithms</strong> - Faculty of Information Technology, University of Science, VNU-HCM - Spring 2026</div>
