@@ -5,9 +5,8 @@ permalink: /group/
 ---
 
 - [Le Trung Hoang](/bio/) (Faculty)
-- Chu Nguyen Gia Khanh (Undergraduate Student)
 - Huynh Le Hai Duong (Undergraduate Student)
-- Lai An Phu (Master’s student)
+- Lai An Phu (Master’s Student)
 - Le Nguyen Hai Dang (Undergraduate Student)
 - Le Quynh Anh (Undergraduate Student)
 - Ly Nguyen Cong Chinh (Undergraduate Student)
@@ -27,3 +26,6 @@ permalink: /group/
 - Truong Nguyen Thanh Danh (Undergraduate Student)
 - Vuong Nhat Hien (Undergraduate Student)
 - Vuong Nhat Tin (Undergraduate Student)
+
+## Alumni
+- Chu Nguyen Gia Khanh
