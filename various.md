@@ -28,7 +28,7 @@ permalink: /various/
 - <div class="talk-item">2019-12-08 - Explainable Recommendation with <a href="https://github.com/PreferredAI/cornac">Cornac</a>, at the University of Science, VNU-HCM, 2019</div>
 
 <h3 class="home-section__header">Blogs</h3>
-- <div class="talk-item">2022-11-30 - <a href="https://preferred.ai/recommendation-explanation/">All Good Recommendations Come with an Explanation</a></div>
+- <div class="talk-item">2022-11-30 - <a href="https://preferred.ai/blog/recommendation-explanation">All Good Recommendations Come with an Explanation</a></div>
 
 
 <h3 class="home-section__header">Projects</h3>
