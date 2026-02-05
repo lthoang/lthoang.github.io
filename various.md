@@ -6,6 +6,7 @@ permalink: /various/
 
 <h3 class="home-section__header">Research Grant</h3>
 - <div class="grant-item">Title: Trustworthy AI for Ranking Systems: Foundations and Applications. Source: NAFOSTED (102.01-2025.66), Vietnam. Grant: 1,350,000,000 VND. Duration: Jan 2026 – Dec 2028.</div>
+- <div class="grant-item">Title: Explainable Recommendation with Subjective-Objective Aspect Comparisons. Source: University of Science, Ho Chi Minh City (CNTT 2025-31), Vietnam. Grant: 150,000,000 VND. Duration: Dec 2025 – Dec 2026.</div>
 - <div class="grant-item">Title: An Explainable Approach Towards Trustworthy Recommender Systems. Collaborator: Singapore Management University. Source: Vietnam National University, Ho Chi Minh City (C2025-18-37). Grant: 200,000,000 VND. Duration: Oct 2025 – Mar 2027.</div>
 
 <h3 class="home-section__header">Teaching</h3>
