@@ -10,6 +10,7 @@ permalink: /various/
 - <div class="grant-item">Title: An Explainable Approach Towards Trustworthy Recommender Systems. Collaborator: Singapore Management University. Source: Vietnam National University, Ho Chi Minh City (C2025-18-37). Grant: 200,000,000 VND. Duration: Oct 2025 – Mar 2027.</div>
 
 <h3 class="home-section__header">Teaching</h3>
+- <div class="teaching-item">Teaching Assistant for <strong>WR227 - Technical Writing</strong> - Faculty of Information Technology, University of Science, VNU-HCM - Spring 2026</div>
 - <div class="teaching-item">Instructor for <strong>Data Structures and Algorithms</strong> - Faculty of Information Technology, University of Science, VNU-HCM - Spring 2026</div>
 - <div class="teaching-item">Instructor for <strong>Computational Thinking</strong> - Faculty of Information Technology, University of Science, VNU-HCM - Fall 2025</div>
 - <div class="teaching-item">Instructor for <strong>Fundamentals of Programming</strong> - Faculty of Information Technology, University of Science, VNU-HCM - Fall 2025</div>
