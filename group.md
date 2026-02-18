@@ -22,6 +22,7 @@ permalink: /group/
 - Tran Cong Lam Anh (Undergraduate Student)
 - Tran Gia Hien (Undergraduate Student)
 - Tran Phuc Thinh (Undergraduate Student)
+- Tran Trung Hieu (Master's Student)
 - Trinh Hoang Khang (Undergraduate Student)
 - Truong Nguyen Thanh Danh (Undergraduate Student)
 - Vuong Nhat Hien (Undergraduate Student)
