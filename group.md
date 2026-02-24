@@ -10,6 +10,7 @@ permalink: /group/
 - Le Nguyen Hai Dang (Undergraduate Student)
 - Le Quynh Anh (Undergraduate Student)
 - Ly Nguyen Cong Chinh (Undergraduate Student)
+- Mai Nguyen Dang Khoa (Undergraduate Student)
 - Ngo Quang Minh (Undergraduate Student)
 - Ngo Van Khai (Undergraduate Student)
 - Nguyen Manh Dinh (Undergraduate Student)
