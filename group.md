@@ -7,6 +7,7 @@ permalink: /group/
 - [Le Trung Hoang](/bio/) (Faculty)
 - Huynh Le Hai Duong (Undergraduate Student)
 - Lai An Phu (Master’s Student)
+- [Lam Chi Hao](https://haolamnm.github.io) (Undergraduate Student)
 - Le Nguyen Hai Dang (Undergraduate Student)
 - Le Quynh Anh (Undergraduate Student)
 - Ly Nguyen Cong Chinh (Undergraduate Student)
