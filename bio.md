@@ -8,5 +8,5 @@ Xin chào! I am a Lecturer at [Faculty of Information Technology](https://www.fi
 
 Earlier in my career, I was a Software Engineer at [KMS Technology](https://www.kms-technology.com/). I completed my bachelor's degree at [VNU-HCM University of Science](http://www.hcmus.edu.vn/), Advanced Program in Computer Science, during which I had a stint as a Research Assistant at [VNU-HCM John von Neumann Institute](http://jvn.edu.vn/).
 
-I am grateful for the following supportive scholarships that helped me afford my study: [SMU Full Scholarships](https://computing.smu.edu.sg/phd/admissions-fees-scholarships), [SMU Presidential Doctoral Fellowship](https://graduatestudies.smu.edu.sg/phd/singapore-management-university-smu-presidential-doctoral-fellowships), [2020 SDSC Dissertation Research Fellowship](https://sdsc.sg/?page_id=12274).
+I am grateful for the following supportive scholarships that helped me afford my study: [SMU Full Scholarships](https://computing.smu.edu.sg/phd/admissions-fees-scholarships), [SMU Presidential Doctoral Fellowship](https://graduatestudies.smu.edu.sg/phd/awards-funding/fellowships), [2020 SDSC Dissertation Research Fellowship](https://computing.smu.edu.sg/postgraduate/research/awards/students).
 My first paper won a <a href="/assets/awards/Distinguished_Paper-Le.pdf">Distinguished Paper Award at IJCAI’20</a>.
