@@ -14,6 +14,7 @@ permalink: /group/
 - Mai Nguyen Dang Khoa (Undergraduate Student)
 - Ngo Quang Minh (Undergraduate Student)
 - Ngo Van Khai (Undergraduate Student)
+- Nguyen Ha Minh Hien (Undergraduate Student)
 - Nguyen Long Thien (Undergraduate Student)
 - Nguyen Manh Dinh (Undergraduate Student)
 - Nguyen Phuc Bao Phuc (Undergraduate Student)
