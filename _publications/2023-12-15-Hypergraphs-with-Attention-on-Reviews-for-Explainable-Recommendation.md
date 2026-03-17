@@ -5,5 +5,6 @@ authors: Theis E. Jendal, Trung-Hoang Le, Hady W. Lauw, Matteo Lissandrini, Pete
 venue: European Conference on Information Retrieval (ECIR'24), Mar 2024.
 link: https://www.dropbox.com/scl/fi/mqg5cyztb2dy04c2eg6ua/ecir24.pdf?rlkey=qvj08y33hfvasl6syolp1yxg1&dl=0
 links:
+  doi: https://doi.org/10.1007/978-3-031-56027-9_14
   code: https://github.com/PreferredAI/HypAR
 ---

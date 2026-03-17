@@ -5,5 +5,6 @@ authors: Trung-Hoang Le and Hady W. Lauw
 venue: ACM International Conference on Web Search and Data Mining (WSDM'21), Mar 2021.
 link: /assets/publications/wsdm21.pdf
 links:
+  doi: https://dl.acm.org/doi/10.1145/3437963.3441754
   code: https://github.com/PreferredAI/ComparER
 ---

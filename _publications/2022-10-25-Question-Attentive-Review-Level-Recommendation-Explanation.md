@@ -5,6 +5,7 @@ authors: Trung-Hoang Le and Hady W. Lauw
 venue: IEEE Conference on Big Data (BigData'22), Dec 2022.
 link: https://www.dropbox.com/s/boaabvpnndx3616/bigdata22a.pdf?dl=0
 links:
+  doi: https://doi.org/10.1109/BigData55660.2022.10020538
   code: https://github.com/PreferredAI/QuestER
   video: https://www.computer.org/csdl/video-library/video/1NOlCSoqTde
 ---
