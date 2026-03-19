@@ -22,6 +22,7 @@ permalink: /group/
 - Nguyen Thuy Hang (Undergraduate Student)
 - Nguyen Trieu Khoang (Undergraduate Student)
 - Nguyen Tuan An (Undergraduate Student)
+- Ong Thi Kim Yen (Undergraduate Student)
 - Pham Gia Nguyen (Undergraduate Student)
 - Tran Cong Lam Anh (Undergraduate Student)
 - Tran Gia Hien (Undergraduate Student)
