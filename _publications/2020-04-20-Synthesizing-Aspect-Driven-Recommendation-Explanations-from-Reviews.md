@@ -9,4 +9,5 @@ links:
   code: https://github.com/PreferredAI/seer
   video: https://www.ijcai.org/proceedings/2020/video/26537
   short video: https://www.ijcai.org/proceedings/2020/video/25338
+  erratum: /assets/publications/ijcai20-erratum.txt
 ---

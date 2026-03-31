@@ -1,0 +1,5 @@
+Due to a bug in data preprocessing step, the following statement is inaccurate:
+For each category, we retrieve the most common aspects covering 90% of opinion phrases and filter out users and items with fewer than five reviews.
+
+The correct statement should be:
+For each category, we filter out users and items with fewer than five reviews.
