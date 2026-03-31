@@ -18,6 +18,7 @@ permalink: /group/
 - Nguyen Long Thien (Undergraduate Student)
 - Nguyen Manh Dinh (Undergraduate Student)
 - Nguyen Phuc Bao Phuc (Undergraduate Student)
+- Nguyen Quoc Dat (Undergraduate Student)
 - Nguyen Thu Uyen (Undergraduate Student)
 - Nguyen Thuy Hang (Undergraduate Student)
 - Nguyen Trieu Khoang (Undergraduate Student)
@@ -30,7 +31,6 @@ permalink: /group/
 - Tran Quoc Huy (Undergraduate Student)
 - Tran Trung Hieu (Master's Student)
 - Trinh Hoang Khang (Undergraduate Student)
-- Truong Nguyen Thanh Danh (Undergraduate Student)
 - Vuong Nhat Hien (Undergraduate Student)
 - Vuong Nhat Tin (Undergraduate Student)
 
