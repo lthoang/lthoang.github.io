@@ -2,7 +2,7 @@
 title: Learning to Rank Aspects and Opinions for Comparative Explanations
 date: 2025-01-16 20:00:00 +0800
 authors: Trung-Hoang Le and Hady W. Lauw
-venue: Machine Learning, vol. 114, no. 17, Jan 2025. Presented at ACML 2024.
+venue: Machine Learning, Vol. 114, No. 17, Jan 2025. Presented at ACML 2024.
 link: /assets/publications/mlj24.pdf
 links:
   doi: https://doi.org/10.1007/s10994-024-06699-5
