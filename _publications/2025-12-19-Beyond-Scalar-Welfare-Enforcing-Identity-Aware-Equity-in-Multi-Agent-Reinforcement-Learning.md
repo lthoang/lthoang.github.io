@@ -4,4 +4,7 @@ title: >
 date: 2026-05-25 18:00:00 +0700
 authors: Nhat-Hoang P. Nguyen, Duc-Thinh Pham, Trung-Hoang Le, Sameer Alam, Vu N. Duong
 venue: The 25th International Conference on Autonomous Agents and Multiagent Systems, May 2026.
+link: https://ifaamas.org/Proceedings/aamas2026/pdfs/LWVB6211.pdf
+links:
+  doi: https://doi.org/10.65109/LWVB6211
 ---
