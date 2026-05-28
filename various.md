@@ -10,11 +10,14 @@ permalink: /various/
 - <div class="grant-item">Title: An Explainable Approach Towards Trustworthy Recommender Systems. Collaborator: Singapore Management University. Source: Vietnam National University, Ho Chi Minh City (C2025-18-37). Grant: 200,000,000 VND. Duration: Oct 2025 – Mar 2027.</div>
 
 <h3 class="home-section__header">Teaching</h3>
+- <div class="teaching-item">Teaching Assistant for <strong>CS305 - Social, Ethical, and Legal Issues</strong> - Faculty of Information Technology, University of Science, VNU-HCM - Summer 2026</div>
+- <div class="teaching-item">Instructor for <strong>Object-Oriented Programming</strong> - Faculty of Information Technology, University of Science, VNU-HCM - Summer 2026</div>
+- <div class="teaching-item">Teaching Associate for <strong>Recommender Systems</strong> - MSc in Information Systems, Faculty of Information Technology, University of Science, VNU-HCM - Spring 2026</div>
 - <div class="teaching-item">Teaching Assistant for <strong>WR227 - Technical Writing</strong> - Faculty of Information Technology, University of Science, VNU-HCM - Spring 2026</div>
 - <div class="teaching-item">Instructor for <strong>Data Structures and Algorithms</strong> - Faculty of Information Technology, University of Science, VNU-HCM - Spring 2026</div>
 - <div class="teaching-item">Instructor for <strong>Computational Thinking</strong> - Faculty of Information Technology, University of Science, VNU-HCM - Fall 2025</div>
 - <div class="teaching-item">Instructor for <strong>Fundamentals of Programming</strong> - Faculty of Information Technology, University of Science, VNU-HCM - Fall 2025</div>
-- <div class="teaching-item">Teaching Assistant for <strong>CM102 - Critical Thinking</strong> - Faculty of Information Technology, University of Science, VNU-HCM - Fall 2024, Spring 2025, Fall 2025, Spring 2026</div>
+- <div class="teaching-item">Teaching Assistant/Associate/Instructor for <strong>CM102 - Critical Thinking</strong> - Faculty of Information Technology, University of Science, VNU-HCM - Fall 2024, Spring 2025, Fall 2025, Spring 2026</div>
 - <div class="teaching-item">Teaching Assistant for <strong>SMU CS608 Recommender Systems</strong> - Master of IT in Business - Summer 2021, Summer 2022</div>
 - <div class="teaching-item">Teaching Assistant for <strong>SMU CS201 Data Structures and Algorithms (BSc)</strong> - Fall 2020</div>
 - <div class="teaching-item">Teaching Assistant for <strong>SMU COR-IS1702 Computational Thinking</strong> - Fall 2019, Spring 2022, Fall 2022</div>
