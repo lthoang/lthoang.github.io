@@ -14,4 +14,4 @@ layout: default
 <h3 class="home-section__header">Get Involved</h3>
 - <div class="activity-item">If you are interested in research, please send your CV to my email address</div>
 - <div class="activity-item">If you are an undergraduate student at the University of Science, VNU-HCM, take the Computational Thinking course</div>
-- <div class="activity-item">If you are a postgraduate student in AI at the University of Science, VNU-HCM, take the Recommender Systems course</div>
+- <div class="activity-item">If you are a postgraduate student in CS/IS/AI at the University of Science, VNU-HCM, take the Recommender Systems course</div>
