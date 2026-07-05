@@ -4,39 +4,41 @@ title: Research Group
 permalink: /group/
 ---
 
-- [Le Trung Hoang](/bio/) (Faculty)
-- Huynh Le Hai Duong (Undergraduate Student)
-- Lai An Phu (Master’s Student)
-- [Lam Chi Hao](https://haolamnm.github.io) (Undergraduate Student)
-- Le Nguyen Hai Dang (Undergraduate Student)
-- Le Quynh Anh (Undergraduate Student)
-- Le Thanh Ngoc (Master's Student)
-- Ly Nguyen Cong Chinh (Undergraduate Student)
-- Mai Nguyen Dang Khoa (Undergraduate Student)
-- Ngo Quang Minh (Undergraduate Student)
-- Ngo Van Khai (Undergraduate Student)
-- Nguyen Dang Thoi Toan (Master's Student)
-- Nguyen Ha Minh Hien (Undergraduate Student)
-- Nguyen Long Thien (Undergraduate Student)
-- Nguyen Manh Dinh (Undergraduate Student)
-- Nguyen Phuc Bao Phuc (Undergraduate Student)
-- Nguyen Quoc Dat (Undergraduate Student)
-- Nguyen Thanh Quy (Master's Student)
-- Nguyen Thu Uyen (Undergraduate Student)
-- Nguyen Thuy Hang (Undergraduate Student)
-- Nguyen Trieu Khoang (Undergraduate Student)
-- Nguyen Tuan An (Undergraduate Student)
-- Nguyen Vo Thien Ha (Master's Student)
-- Ong Thi Kim Yen (Undergraduate Student)
-- Pham Gia Nguyen (Undergraduate Student)
-- Tran Cong Lam Anh (Undergraduate Student)
-- Tran Gia Hien (Undergraduate Student)
-- Tran Phuc Thinh (Undergraduate Student)
-- Tran Quoc Huy (Undergraduate Student)
-- Tran Trung Hieu (Master's Student)
-- Trinh Hoang Khang (Undergraduate Student)
-- Vuong Nhat Hien (Undergraduate Student)
-- Vuong Nhat Tin (Undergraduate Student)
+## Faculty
+- [Le Trung Hoang](/bio/)
+- Tran Thi Bich Hanh
 
-## Alumni
-- Chu Nguyen Gia Khanh
+## Master's Student
+- Lai An Phu 
+- Le Thanh Ngoc
+- Nguyen Dang Thoi Toan
+- Nguyen Thanh Quy
+- Nguyen Vo Thien Ha
+- Tran Trung Hieu
+
+## Undergraduate Student
+- Huynh Le Hai Duong
+- Le Nguyen Hai Dang
+- Le Quynh Anh
+- Ly Nguyen Cong Chinh
+- Mai Nguyen Dang Khoa
+- Ngo Quang Minh
+- Ngo Van Khai
+- Nguyen Ha Minh Hien
+- Nguyen Long Thien
+- Nguyen Manh Dinh
+- Nguyen Phuc Bao Phuc
+- Nguyen Quoc Dat
+- Nguyen Thu Uyen
+- Nguyen Thuy Hang
+- Nguyen Trieu Khoang
+- Nguyen Tuan An
+- Ong Thi Kim Yen
+- Pham Gia Nguyen
+- Tran Cong Lam Anh
+- Tran Gia Hien
+- Tran Phuc Thinh
+- Tran Quoc Huy
+- Trinh Hoang Khang
+- Vuong Nhat Hien
+- Vuong Nhat Tin
