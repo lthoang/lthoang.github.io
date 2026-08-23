@@ -11,6 +11,7 @@ permalink: /group/
 ## Master's Student
 - Lai An Phu 
 - Le Thanh Ngoc
+- Nguyen Anh Vu
 - Nguyen Dang Thoi Toan
 - Nguyen Thanh Quy
 - Nguyen Vo Thien Ha
@@ -19,6 +20,7 @@ permalink: /group/
 ## Undergraduate Student
 - Huynh Le Hai Duong
 - Le Nguyen Hai Dang
+- Le Nguyen Thuy Linh
 - Le Quynh Anh
 - Ly Nguyen Cong Chinh
 - Mai Nguyen Dang Khoa
@@ -32,13 +34,11 @@ permalink: /group/
 - Nguyen Thu Uyen
 - Nguyen Thuy Hang
 - Nguyen Trieu Khoang
-- Nguyen Tuan An
 - Ong Thi Kim Yen
 - Pham Gia Nguyen
+- Tran Bieu Huong
 - Tran Cong Lam Anh
 - Tran Gia Hien
 - Tran Phuc Thinh
-- Tran Quoc Huy
-- Trinh Hoang Khang
 - Vuong Nhat Hien
 - Vuong Nhat Tin
