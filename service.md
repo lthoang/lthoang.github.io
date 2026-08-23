@@ -6,7 +6,7 @@ permalink: /service/
 
 <h3 class="home-section__header">Program Committee</h3>
 - <div class="activity-item">2027: KDD, WSDM</div>
-- <div class="activity-item">2026: TheWebConf, FJCAI, PAKDD, KDD, ACCV, ACML</div>
+- <div class="activity-item">2026: TheWebConf, FJCAI, PAKDD, KDD, ACCV, ACML, SOICT</div>
 - <div class="activity-item">2025: KDD, TheWebConf, ACML, DSAA, SOICT</div>
 - <div class="activity-item">2024: TheWebConf, KDD</div>
 
