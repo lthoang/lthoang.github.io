@@ -17,28 +17,33 @@ permalink: /group/
 - Nguyen Vo Thien Ha
 - Tran Trung Hieu
 
+
 ## Undergraduate Student
-- Huynh Le Hai Duong
 - Le Nguyen Hai Dang
 - Le Nguyen Thuy Linh
 - Le Quynh Anh
 - Ly Nguyen Cong Chinh
 - Mai Nguyen Dang Khoa
-- Ngo Quang Minh
-- Ngo Van Khai
 - Nguyen Ha Minh Hien
 - Nguyen Long Thien
-- Nguyen Manh Dinh
 - Nguyen Phuc Bao Phuc
 - Nguyen Quoc Dat
 - Nguyen Thu Uyen
 - Nguyen Thuy Hang
-- Nguyen Trieu Khoang
 - Ong Thi Kim Yen
-- Pham Gia Nguyen
 - Tran Bieu Huong
-- Tran Cong Lam Anh
 - Tran Gia Hien
-- Tran Phuc Thinh
-- Vuong Nhat Hien
-- Vuong Nhat Tin
+
+
+## Alumni
+- 2026
+  - Huynh Le Hai Duong
+  - Ngo Quang Minh
+  - Ngo Van Khai
+  - Nguyen Manh Dinh
+  - Nguyen Trieu Khoang
+  - Pham Gia Nguyen
+  - Tran Cong Lam Anh
+  - Tran Phuc Thinh
+  - Vuong Nhat Hien
+  - Vuong Nhat Tin
