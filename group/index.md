@@ -35,15 +35,4 @@ permalink: /group/
 - Tran Gia Hien
 
 
-## Alumni
-- 2026
-  - Huynh Le Hai Duong
-  - Ngo Quang Minh
-  - Ngo Van Khai
-  - Nguyen Manh Dinh
-  - Nguyen Trieu Khoang
-  - Pham Gia Nguyen
-  - Tran Cong Lam Anh
-  - Tran Phuc Thinh
-  - Vuong Nhat Hien
-  - Vuong Nhat Tin
+Looking for past student works? View our [Research Archive](/group/research-archive).
