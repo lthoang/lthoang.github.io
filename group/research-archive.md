@@ -10,7 +10,7 @@ nav: false
   Thesis: RESPECT: Reinforcement-learning Enhanced System for Pragmatic-aware and Controllable Translation
 - [Pham Gia Nguyen](https://www.linkedin.com/in/nguyen-pham-9204812b8/) and [Tran Phuc Thinh](https://www.linkedin.com/in/tr%E1%BA%A7n-ph%C3%BAc-th%E1%BB%8Bnh/) (BSc Computer Science, APCS, Class of 2026) \
   Thesis: Ai-Assisted Integration of Micro-Learning and Spaced Repetition for Daily Study
-- [Ngo Van Khai](https://github.com/KhaiSV) (BSc Computer Science, English Intensive Program, Class of 2026) \
+- [Ngo Van Khai](https://www.linkedin.com/in/v%C4%83n-kh%E1%BA%A3i-ng%C3%B4-41aba442a/) (BSc Computer Science, English Intensive Program, Class of 2026) \
   Thesis: Item Quantity Prediction for Next-basket Recommendation
 - [Huynh Le Hai Duong](https://www.linkedin.com/in/haiduonghuynhle) and [Nguyen Trieu Khoang](https://www.linkedin.com/in/trieu-khoang-nguyen-6bb463246/) (BSc Computer Science, English Intensive Program, Class of 2026) \
   Thesis: Cross-View Geo-Localization for UAV Navigation in GNSS-Denied Environments
