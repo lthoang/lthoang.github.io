@@ -21,7 +21,6 @@ permalink: /group/
 ## Undergraduate Student
 - Le Nguyen Hai Dang
 - Le Nguyen Thuy Linh
-- Le Quynh Anh
 - Ly Nguyen Cong Chinh
 - Mai Nguyen Dang Khoa
 - Nguyen Ha Minh Hien
