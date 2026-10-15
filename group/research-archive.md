@@ -4,6 +4,8 @@ nav: false
 ---
 ## Research Archive
 
+- [Tran Trung Hieu](https://www.linkedin.com/in/tthieu0901/) (MSc Computer Science, Class of 2026) \
+  Thesis: Explaining Factorization Machines with Core Interactions
 - [Ngo Quang Minh](https://www.linkedin.com/in/minhngo2308/) and [Nguyen Manh Dinh](https://www.linkedin.com/in/%C4%91%C3%ACnh-nguy%E1%BB%85n-670b63166/) (BSc Computer Science, APCS, Class of 2026) \
   Thesis: Deterministic Preprocessing for LLM Hierarchical Table Question Answering
 - [Tran Cong Lam Anh](https://www.linkedin.com/in/cong-lam-anh-tran-26610b2ab/) (BSc Computer Science, APCS, Class of 2026) \

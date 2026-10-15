@@ -15,7 +15,6 @@ permalink: /group/
 - Nguyen Dang Thoi Toan
 - Nguyen Thanh Quy
 - Nguyen Vo Thien Ha
-- Tran Trung Hieu
 
 
 ## Undergraduate Student
