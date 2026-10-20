@@ -9,7 +9,7 @@ permalink: /group/
 - Tran Thi Bich Hanh
 
 ## Master's Student
-- Lai An Phu 
+- Lai An Phu
 - Le Thanh Ngoc
 - Nguyen Anh Vu
 - Nguyen Dang Thoi Toan
@@ -34,6 +34,7 @@ permalink: /group/
 - Nguyen Thuy Hang
 - Ong Thi Kim Yen
 - Pham Minh Thu
+- Pham Truong Quoc Huy
 - To Ngoc Gia Khiem
 - Tran Bieu Huong
 - Tran Gia Hien
