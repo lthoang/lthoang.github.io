@@ -23,6 +23,7 @@ permalink: /various/
 - <div class="teaching-item">Teaching Assistant for <strong>SMU COR-IS1702 Computational Thinking</strong> - Fall 2019, Spring 2022, Fall 2022</div>
 
 <h3 class="home-section__header">Talks</h3>
+- <div class="talk-item">2026-10-14 - From Research Direction to Thesis, the 2026 Skills and Technology Workshop Series for AI and Honor Programs, FIT, University of Science, VNU-HCM, 2026</div>
 - <div class="talk-item">2026-01-13 - Evaluation and Reproducibility of Recommendation Algorithms, at Scientific Research Club, FIT, University of Science, VNU-HCM, 2026</div>
 - <div class="talk-item">2025-10-07 - Recommendation Explanations from Reviews towards Trustworthy AI, at FIT, University of Science, VNU-HCM, 2025</div>
 - <div class="talk-item">2025-09-16 - Evaluative and Comparative Explanations for Recommender Systems towards Trustworthy AI, at FIT, University of Science, VNU-HCM, 2025</div>
@@ -46,7 +47,7 @@ permalink: /various/
   <div>
     <small>
         <small>
-            {{ item.date | date: "%Y-%m-%d" }} | 
+            {{ item.date | date: "%Y-%m-%d" }} |
         </small>
         <small>
             {% if item.homepage %}<a href="{{ item.homepage }}">Homepage</a>{% endif %}
