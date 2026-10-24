@@ -15,3 +15,4 @@ permalink: /service/
 - <div class="activity-item"><a href="https://www.embs.org/jbhi/">IEEE Journal of Biomedical and Health Informatics</a></div>
 - <div class="activity-item"><a href="https://link.springer.com/journal/44443">Journal of King Saud University Computer and Information Sciences</a></div>
 - <div class="activity-item">Journal of Advances in Information Technology</div>
+- <div class="activity-item"><a href="https://std.vnuhcmjournal.com.vn">VNUHCM Journal of Science and Technology Development</a></div>
